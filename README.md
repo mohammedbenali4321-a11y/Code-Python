@@ -12,7 +12,7 @@ Bienvenue dans ce dépôt dédié à l'apprentissage, à la révision et à la m
 
 ---
 
-## 👨‍💻 À Propos de l'Auteur
+## 👨‍💻 À Propos de l'Auteur:
 
 **Mohamed BEN ALI**  
 Étudiant / Passionné en Intelligence Artificielle & Data Analytics.
